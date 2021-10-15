@@ -1,0 +1,29 @@
+what i need ?
+
+*   home page
+        banner 
+        about me
+        services/working technologies / skills
+        contact
+        subscribe
+
+*   Resume 
+    complete portfolio 
+    download Resume
+
+*   contact
+    contact form
+
+*   projects
+    seacrh
+    projects abstract
+    files
+    comments
+    subscribe
+    email
+
+*   blogs
+    search
+    content
+    subscription
+    email
